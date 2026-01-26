@@ -1,0 +1,11 @@
+# 是否严格遵循大小写 (默认关闭)
+case-sensitive: false
+
+# 指令映射配置
+# 格式: 映射指令: 实际执行指令
+command-mappings:
+  hub: server Lobby
+  spawn: spawn
+  warp: warp
+  shop: gui shop
+  # 其他映射...
