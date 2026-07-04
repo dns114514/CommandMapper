@@ -10,8 +10,7 @@
 
 ### 功能特性
 ✅ **指令映射** - 将玩家输入的指令映射为实际执行的指令  
-✅ **大小写控制** - 可配置是否区分大小写  
-✅ **BungeeCord 支持** - 支持 `/server` 指令映射到其他服务器  
+✅ **大小写控制** - 可配置是否区分大小写    
 ✅ **Tab 补全** - 支持映射指令的 Tab 补全（可显示映射后的指令补全）  
 ✅ **实时重载** - 无需重启服务器即可更新配置（使用 `/cm reload`）  
 ✅ **权限管理** - 精细的权限控制，支持管理员操作  
@@ -88,7 +87,6 @@ A lightweight Minecraft 1.20.1 plugin that allows custom command mapping through
 ### Features
 ✅ **Command Mapping** - Map player-input commands to actual executed commands  
 ✅ **Case Sensitivity Control** - Configurable case sensitivity  
-✅ **BungeeCord Support** - Support for `/server` command mapping to other servers  
 ✅ **Tab Completion** - Support for tab completion of mapped commands (shows completions for the target command)  
 ✅ **Live Reload** - Update configuration without server restart (use `/cm reload`)  
 ✅ **Permission Management** - Fine-grained permission control for admin operations  
