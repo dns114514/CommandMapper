@@ -76,7 +76,7 @@ mvn clean package
 - Minecraft 1.20.1
 - Paper / Spigot API
 
----
+```
 
 <a name="english"></a>
 ## English Documentation
